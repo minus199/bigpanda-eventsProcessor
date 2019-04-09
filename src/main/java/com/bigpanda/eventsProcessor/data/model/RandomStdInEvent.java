@@ -1,4 +1,4 @@
-package com.bigpanda.eventsProcessor.data.redis.model;
+package com.bigpanda.eventsProcessor.data.model;
 
 import java.util.Map;
 import java.util.UUID;

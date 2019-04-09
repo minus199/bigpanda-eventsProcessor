@@ -1,6 +1,6 @@
 package com.bigpanda.eventsProcessor;
 
-import com.bigpanda.eventsProcessor.data.redis.model.RandomStdInEvent;
+import com.bigpanda.eventsProcessor.data.model.RandomStdInEvent;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

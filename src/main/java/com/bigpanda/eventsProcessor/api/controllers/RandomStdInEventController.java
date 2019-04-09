@@ -1,6 +1,6 @@
 package com.bigpanda.eventsProcessor.api.controllers;
 
-import com.bigpanda.eventsProcessor.data.redis.model.RandomStdInEvent;
+import com.bigpanda.eventsProcessor.data.model.RandomStdInEvent;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.data.redis.connection.ReactiveSubscription;
