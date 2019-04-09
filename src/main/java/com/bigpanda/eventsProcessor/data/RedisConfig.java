@@ -1,4 +1,4 @@
-package com.bigpanda.eventsProcessor.data.redis;
+package com.bigpanda.eventsProcessor.data;
 
 import com.bigpanda.eventsProcessor.data.model.RandomStdInEvent;
 import io.lettuce.core.ClientOptions;
